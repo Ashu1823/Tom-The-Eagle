@@ -1,0 +1,77 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/Menu.unity
+    guid: a8b16ccd04b81054688e855ee08392d4
+  - enabled: 1
+    path: Assets/Scenes/Level Unlock.unity
+    guid: 810fc62640dd098408dc1e6e797aad46
+  - enabled: 1
+    path: Assets/Scenes/Level1.unity
+    guid: ac5f57fe512523043a8f3d70bf7b1122
+  - enabled: 1
+    path: Assets/Scenes/Level2.unity
+    guid: 3107ff15fb5ef4e42892c78b73b55961
+  - enabled: 1
+    path: Assets/Scenes/Level3.unity
+    guid: 2cac334372a697148af16a7b04b2064d
+  - enabled: 1
+    path: Assets/Scenes/Urban Level 1.unity
+    guid: 42234ecfbf82256448cc179423aa8da8
+  - enabled: 1
+    path: Assets/Scenes/Urban Level 2.unity
+    guid: d4f55b10494d7ea4e9de317308ee9688
+  - enabled: 1
+    path: Assets/Scenes/Urban Level 3.unity
+    guid: c96e3571fe1ccc64fa615c4dace380cd
+  - enabled: 1
+    path: Assets/Scenes/Desert level 1.unity
+    guid: a5a33a591f48349439d35d532f7e8c46
+  - enabled: 1
+    path: Assets/Scenes/Desert level 2.unity
+    guid: c49d577bcebf235429f7b525b784aa93
+  - enabled: 1
+    path: Assets/Scenes/Desert Level 3.unity
+    guid: 1bbee79d9f3c52942b3480f1ba601b43
+  - enabled: 1
+    path: Assets/Scenes/kitchen level 1.unity
+    guid: 9bbdeb24062c63b47b2213f656dfe7ea
+  - enabled: 1
+    path: Assets/Scenes/Kitchen level 2.unity
+    guid: 7c17fbf8eec238145968c0dff43dc70e
+  - enabled: 1
+    path: Assets/Scenes/kitchen level 3.unity
+    guid: 636967f8f0162f3429e071a88f2bb799
+  - enabled: 1
+    path: Assets/Scenes/level13.unity
+    guid: e16d86ede8edb084f8f4074fc2fa16fd
+  - enabled: 1
+    path: Assets/Scenes/level 14.unity
+    guid: f5f18f290b82f0349aee02512903ce4f
+  - enabled: 1
+    path: Assets/Scenes/level 15.unity
+    guid: 7aefbb0c4662d0240a5016389c1fc01a
+  - enabled: 1
+    path: Assets/Scenes/level 16.unity
+    guid: 682ec5da651696441915cd028ada1155
+  - enabled: 1
+    path: Assets/Scenes/level 17.unity
+    guid: f00a855cf9eedde48a90589b76658f19
+  - enabled: 1
+    path: Assets/Scenes/level 18.unity
+    guid: f888e57f5ac07c942bb24690edf3c599
+  - enabled: 1
+    path: Assets/Scenes/level 19.unity
+    guid: 8cf2be6d4ba9d1840bd32722706698ef
+  - enabled: 1
+    path: Assets/Scenes/level 20.unity
+    guid: 7825c904cbf4b9943a37a059d66629a0
+  - enabled: 1
+    path: Assets/Scenes/Won.unity
+    guid: 3f2c2e73a4e6d2c4d9854e623754b982
+  m_configObjects: {}
